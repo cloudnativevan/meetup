@@ -19,6 +19,13 @@ We are Cloud Native Vancouver [(CNV)](https://community.cncf.io/vancouver/), an 
   <a href="https://www.linkedin.com/company/cloudnativevan/">Linkedin</a>
 </div>
 
+## How to be a sponsor?
+If you’re interested in sponsoring the event, please complete the form below:
+
+[Sponsorship form](https://forms.gle/gUqATwnLNNMX9zJY8)
+
+Our team will review your submission and get back to you as soon as possible with next steps.
+
 ## Values 🚀
 
 Cloud Native Vancouver was created in March 2024, our values are:
